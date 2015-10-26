@@ -1,0 +1,34 @@
+{
+  "name": "extend",
+  "version": "0.0.1",
+  "description": "A port of jquery.extend that actually works on node.js",
+  "author": {
+    "name": "nuintun",
+    "email": "nuintun@qq.com"
+  },
+  "homepage": "https://nuintun.github.io/extend",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nuintun/extend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nuintun/extend/issues",
+    "email": "nuintun@qq.com"
+  },
+  "license": "MIT",
+  "main": "index",
+  "keywords": [
+    "extend",
+    "jquery",
+    "jquery extend",
+    "clone",
+    "copy",
+    "inherit"
+  ],
+  "dependencies": {
+    "is": "^3.1.0"
+  },
+  "devDependencies": {
+  },
+  "readmeFilename": "README.md"
+}
